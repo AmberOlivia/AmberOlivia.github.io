@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yuezhen Gao"
-  pronouns         : "she/her"  
+  pronouns         : # "she/her"  
   bio              : "Lifelong Learner | Nature Lover"
   location         : "Edmonton, Canada"
   employer         : "University of Alberta"
