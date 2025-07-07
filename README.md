@@ -1,3 +1,6 @@
+### My Reference for settings
+https://www.youtube.com/watch?v=8lJhXJCUYCc
+
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
 
