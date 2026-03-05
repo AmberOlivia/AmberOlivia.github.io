@@ -234,9 +234,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
-      comments: false
-      share: true # show share links via  x, linkedin
+      read_time: true
+      comments: true
+      share: false # show share links via twitter, facebook, linkedin
       related: true # show links of other blog posts
   # _pages
   - scope:
