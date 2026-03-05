@@ -236,8 +236,8 @@ defaults:
       author_profile: true
       read_time: false
       comments: false
-      share: false
-      related: true
+      share: true # show share links via  x, linkedin
+      related: true # show links of other blog posts
   # _pages
   - scope:
       path: ""
