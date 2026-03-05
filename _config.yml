@@ -235,7 +235,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: false # show share links via twitter, facebook, linkedin
       related: true # show links of other blog posts
   # _pages
