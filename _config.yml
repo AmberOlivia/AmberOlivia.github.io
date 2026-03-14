@@ -233,8 +233,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
-      read_time: false
+      author_profile: true
+      read_time: true
       comments: false
       share: false # show share links via twitter, facebook, linkedin
       related: true # show links of other blog posts
