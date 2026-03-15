@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-👩‍🎓 I'm a Ph.D. student at University of Alberta, passionate about using robotics and AI technologies to advance automation and drive digital transformation in the construction industry.
+👩‍🎓 I'm a Ph.D. student at the University of Alberta, passionate about using robotics and AI technologies to advance automation and drive digital transformation in the construction industry.
 
-💃 I'm a lifelong-learner, always seeking growth through knowledge and experiences, whether from academic activities or lessons found in daily life.
+💃 I'm a lifelong learner, always seeking growth through knowledge and experience, whether from academic pursuits or lessons found in everyday life.
 
 🌎 I'm a nature lover, constantly discovering myself through exploring the wonderful world, hiking⛰️ and photography📸 always make my day!
 
